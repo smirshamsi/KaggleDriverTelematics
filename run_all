@@ -1,0 +1,9 @@
+#!/bin/bash
+echo "running1"
+python TelematicsLib.py
+echo "running2"
+
+python TelematicsLib_temp.py
+echo "running3"
+
+python TelematicsLib_temp2.py
